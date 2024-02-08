@@ -15,12 +15,15 @@ so that usko baad mai naye location pe change kia ja sake*/
 // Array, Objects, Functions
 
 const hero = ["iron man", "Dr.strange","Hulk"];    
-
+console.log(hero);
 let myObj = {                                     
     name: "Ashish",
     Age: 30 ,
 };
 
-Const myFunction = function(){                    
+console.log(myObj);
+
+const myFunction = function(){                    
     console.log("Hello world");
 }
+console.log(myFunction);
