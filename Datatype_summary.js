@@ -17,8 +17,8 @@ so that usko baad mai naye location pe change kia ja sake*/
 const hero = ["iron man", "Dr.strange","Hulk"];    // Array
 
 let myObj = {                                      // Object
-    name: "Ashish"
-    UserAge: 30 
+    name: "Ashish",
+    Age: 30 ,
 }
 
 Const myFunction = function(){                    // Function
