@@ -14,13 +14,13 @@ so that usko baad mai naye location pe change kia ja sake*/
 
 // Array, Objects, Functions
 
-const hero = ["iron man", "Dr.strange","Hulk"];    // Array
+const hero = ["iron man", "Dr.strange","Hulk"];    
 
-let myObj = {                                      // Object
+let myObj = {                                     
     name: "Ashish",
     Age: 30 ,
-}
+};
 
-Const myFunction = function(){                    // Function
+Const myFunction = function(){                    
     console.log("Hello world");
 }
